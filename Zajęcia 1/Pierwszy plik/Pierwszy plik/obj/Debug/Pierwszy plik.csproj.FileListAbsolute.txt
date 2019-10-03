@@ -1,0 +1,7 @@
+C:\git\Zajęcia 1\Pierwszy plik\Pierwszy plik\obj\Debug\Pierwszy plik.csprojAssemblyReference.cache
+C:\git\Zajęcia 1\Pierwszy plik\Pierwszy plik\obj\Debug\Pierwszy plik.csproj.CoreCompileInputs.cache
+C:\git\Zajęcia 1\Pierwszy plik\Pierwszy plik\bin\Debug\Pierwszy plik.exe.config
+C:\git\Zajęcia 1\Pierwszy plik\Pierwszy plik\bin\Debug\Pierwszy plik.exe
+C:\git\Zajęcia 1\Pierwszy plik\Pierwszy plik\bin\Debug\Pierwszy plik.pdb
+C:\git\Zajęcia 1\Pierwszy plik\Pierwszy plik\obj\Debug\Pierwszy plik.exe
+C:\git\Zajęcia 1\Pierwszy plik\Pierwszy plik\obj\Debug\Pierwszy plik.pdb
